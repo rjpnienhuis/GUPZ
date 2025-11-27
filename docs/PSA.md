@@ -1,6 +1,7 @@
 # Inleiding
 ## Aanleiding
 ## Doelstelling programma GUPZ
+![Tijdlijn van het GUPZ programma](/assets/timeline.jpg)
 ## Ambities en doelen open GUPZ specificaties & tools
 Versnellen, 
 # Uitgangspunten en principes
